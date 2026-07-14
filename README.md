@@ -183,13 +183,6 @@ SaaS-Customer-Churn-Analytics/
 ├── database/
 │   └── customer_churn.db
 │
-├── images/
-│   ├── churn_rate.png
-│   ├── monthly_churn.png
-│   ├── feature_usage.png
-│   ├── support_analysis.png
-│   └── correlation_heatmap.png
-│
 ├── README.md
 └── LICENSE
 ```
